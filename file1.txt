@@ -1,0 +1,10 @@
+Hello World!
+This is a test file.
+It contains multiple lines of text.
+Some lines have HELLO in different cases.
+hello there, how are you?
+The word pattern appears here.
+Testing, testing, 123.
+Another hello shows up here.
+HELLO AGAIN IN CAPS!
+The end.

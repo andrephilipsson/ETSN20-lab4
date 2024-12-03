@@ -1,0 +1,10 @@
+Welcome to the second file!
+No hellos on this line.
+But HELLO appears here!
+This file has some patterns in it.
+Pattern matching is fun.
+Let's test multiple PATTERN matches.
+hello from the other file.
+Testing line numbers too.
+The pattern repeats sometimes.
+Goodbye!
